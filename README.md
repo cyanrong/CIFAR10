@@ -1,2 +1,2 @@
 # CIFAR10
- The final Big-work for AI course
+ The final assignment for AI course
