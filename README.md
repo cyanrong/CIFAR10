@@ -50,4 +50,8 @@
 CIFAR10.ipynb  # 主代码文件，包含整个项目的实现过程
 README.md       # 项目说明文件，介绍项目背景、目标、方法、过程和结果
 submission.csv  # 测试集预测结果文件，用于Kaggle竞赛的提交
+Project description.md  # 项目描述文件，包含项目背景、目标、方法、过程和结果
+results/        # 保存训练过程中的损失和准确率曲线图
+submission/     # 保存测试集的预测结果文件
+cifar10_model_state_dict.pth  # 保存训练好的模型参数
 ```
